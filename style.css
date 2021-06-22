@@ -7,7 +7,6 @@
 .a{
     text-align: center;
     padding: 200px;
-    bottom: 40px;
     top: 80%;
     display: block;
     font-size: 25px;
@@ -25,6 +24,23 @@
 }
 
 #mouse{
-    padding: 350px;
+    padding: 300px;
     bottom: 30%;
+}
+
+.about{
+    padding:-800px;
+    text-align: center;
+}
+
+.service{
+    background-image: url(images/s_image.jpg);
+    height: 50%;
+}
+
+.words{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    padding: 150px;
 }

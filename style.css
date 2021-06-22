@@ -1,0 +1,30 @@
+.first{
+    background-image: url(images/work5\ \(11th\ copy\).jpg);
+    height: 100%;
+    position: relative;
+}
+
+.a{
+    text-align: center;
+    padding: 200px;
+    bottom: 40px;
+    top: 80%;
+    display: block;
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+
+}
+
+.logo{
+    align-items: center;
+    display: block;
+}
+#para{
+    font-size: 16px;
+}
+
+#mouse{
+    padding: 350px;
+    bottom: 30%;
+}

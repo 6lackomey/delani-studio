@@ -1,3 +1,6 @@
+* {
+    scroll-behavior: smooth;
+}
 .first{
     background-image: url(images/work5\ \(11th\ copy\).jpg);
     height: 100%;

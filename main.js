@@ -16,3 +16,12 @@ $().ready(function(){
         $('#design').toggle('slow').hide();
         $('#design-image').show();
       });
+
+      $("#product-image").click(function(){
+        $("#product-image").fadeOut('1500').hide('1000');
+        $("#product").show('1500');
+      });
+      $("#product").click(function(){
+        $("#product").fadeOut('1500');
+        $("#product-image").slideDown('1500');
+      });
